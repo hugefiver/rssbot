@@ -31,6 +31,7 @@ either = "1.6"
 
 [dependencies.tbot]
 version = "0.6"
+path = "tbot"
 default-features = false
 features = ["rustls", "proxy"]
 
